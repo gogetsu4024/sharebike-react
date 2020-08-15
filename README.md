@@ -14,5 +14,5 @@
 6.npm start
 
 ## Project images
-![GitHub Logo](/readme-images/back1.png | width=100)
+![GitHub Logo](/readme-images/back1.png)
 
