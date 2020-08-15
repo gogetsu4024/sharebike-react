@@ -1,6 +1,8 @@
 # share_bike  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ## instructions 
 
+**The build.js contains os dependant build scripts along with port config please change it to suite your needs !**
+
 1. install backoffice nodemodules 
 ```shell
 npm install /client/backend 
