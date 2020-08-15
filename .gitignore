@@ -72,10 +72,12 @@ typings/
 .yarn-integrity
 
 # dotenv environment variables file
-#.env
+.env
 
 # next.js build output
 .next
 
 # php storm idea folder
 /.idea
+
+
