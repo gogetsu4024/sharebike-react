@@ -9,4 +9,10 @@
 
 4.create uploads directory
 
-5.npm start
+5.install redux dev tools
+
+6.npm start
+
+## Project images
+![GitHub Logo](/readme-images/back1.png)
+
