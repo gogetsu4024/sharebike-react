@@ -19,14 +19,13 @@ npm install
 
 4. create uploads directory
 
-5. install redux dev tools
+5. install redux dev tools [Here](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=en)
 
 6. run project 
 ```shell
 npm start
 ```
 
-## Project images
 ## Project images
 ### BackOffice :
 ![BackOffice1](/readmeimages/back1.png)
