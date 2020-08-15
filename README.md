@@ -29,29 +29,19 @@ npm start
 
 ## Features
 <dl>
-
-  <dt> Redux state management</dt>
-
-  <dt>MongoDB</dt>
   
-  <dt>Next generation CSS</dt>
-  <dd>Write composable CSS that's co-located with your components for complete modularity. Unique generated class names keep the specificity low while eliminating style clashes. Ship only the styles that are on the page for the best performance.</dd>
+  <dt>Multi-Platform</dt>
+  <dd>this app communicates with a react native App</dd>
+   
+  <dt> Redux state management</dt>
+  <dd> Redux sauce will be added at future updates </dd>
 
-  <dt>Industry-standard routing</dt>
-  <dd>It's natural to want to add pages (e.g. `/about`) to your application, and routing makes this possible.</dd>
+  <dt>NoSql</dt>
+  <dd>MongoDb : db exported json will be uploaded at a later date </dd>
 
-  <dt>Industry-standard i18n internationalization support</dt>
-  <dd>Scalable apps need to support multiple languages, easily add and support multiple languages.</dd>
-
-  <dt>Typescript</dt>
-  <dd>Typescript is the key to scalability. Build self-documented code, easy-to-debug code and create maintainable large applications and codebases with a highly productive development experience.</dd>
-
-  <dt>Quick scaffolding</dt>
-  <dd>Create components, containers, routes, selectors and sagas - and their tests - right from the CLI!</dd>
-
-  <dt>Static code analysis</dt>
-  <dd>Focus on writing new features without worrying about formatting or code quality. With the right editor setup, your code will automatically be formatted and linted as you work.</dd>
-
+   <dt>[Passport](http://www.passportjs.org/) </dt>
+   <dd>More then one passport were used to comunicate with the react native app / Google oAuth / Facebook Auth </dd> 
+    
   <dt>SEO</dt>
   <dd>We support SEO (document head tags management) for search engines that support indexing of JavaScript content. (eg. Google)</dd>
 </dl>
