@@ -1,20 +1,31 @@
 # share_bike  ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 ## instructions 
 
-1. install front end nodemodules 
+1. install backoffice nodemodules 
 ```shell
 npm install /client/backend 
 ```
 
-2. npm insstall /client/frontend
+2. install frontoffice nodemodules 
+```shell
+npm install /client/frontend
+```
 
-3. npm install root directory
+3. run this in root directory to install backend nodemodules
+
+```shell
+npm install
+```
 
 4. create uploads directory
 
 5. install redux dev tools
 
-6. npm start
+6. run project 
+```shell
+npm start
+```
+
 ## Project images
 ## Project images
 ### BackOffice :
